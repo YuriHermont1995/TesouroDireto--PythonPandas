@@ -1,2 +1,2 @@
 # TesouroDireto-PythonPandas
-Busca e analise de alguns dados sobre os Titulos do Tesouro Direto em vigencia ou que ainda não venceram.
+Busca e analise de alguns dados sobre os Titulos do Tesouro Direto.
